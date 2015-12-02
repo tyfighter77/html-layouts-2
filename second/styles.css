@@ -1,0 +1,78 @@
+body {
+  background-color: #d8d8d8;
+  padding: 50px;
+}
+
+.topBox {
+  background-color: white;
+  height: 220px;
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+}
+
+p {
+  padding: 10px;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+}
+
+.button {
+  width: 120px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 35px;
+  color: white;
+  padding: 10px;
+  display: inline-block;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.first {
+  background-color: #d0021b;
+}
+
+.second {
+  background-color: #4a90e2;
+}
+
+.mainBox {
+  background-color: white;
+  height: 450px;
+  width: 80%;
+  margin: 40px auto;
+  padding: 30px;
+}
+
+.imageBox {
+  background-color: #4a4a4a;
+  width: 500px;
+  height: 300px;
+  font-family: Arial, sans-serif;
+  font-size: 45px;
+  color: white;
+  text-align: center;
+  line-height: 300px;
+  margin: auto;
+}
+
+footer {
+  width: 100%;
+  height: 100px;
+  background-color: #333333;
+  color: white;
+}
+
+.link {
+  height: 100%;
+  width: 100px;
+  line-height: 100px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  cursor: pointer;
+  display: inline-block;
+  float: right;
+  margin-right: 50px;
+}
